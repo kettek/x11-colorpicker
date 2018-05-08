@@ -4,8 +4,6 @@ triplet to stdout.
 
 ## Usage
 
-```
-$ x11-colorpicker
-  < ... Click ... >
-#f17ccf
-```
+    $ x11-colorpicker
+      < ... Click ... >
+    #f17ccf
